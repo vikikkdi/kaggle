@@ -1,5 +1,4 @@
 # kaggle
-# Creating Individual Folders for each problem
 
 # Contests Links
 
